@@ -1,0 +1,12 @@
+ache_workdir/
+*.xtc
+*.trr
+*.cpt
+*.edr
+*.tpr
+*.gro
+*.pdb
+*.sdf
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

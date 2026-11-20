@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software archive."
+title: "Code for: Generating Acetylcholinesterase Potential Inhibitors through Foundational Models Integration"
+type: software
+version: 1.0.0
+date-released: "2026-11-20"
+license: MIT
+repository-code: "https://github.com/Reasonly40/ache-chemberta-chemgpt"
+authors:
+  - family-names: Roeroe
+    given-names: Christian Andreas
+    orcid: "https://orcid.org/0009-0005-0373-1970"
+    affiliation: "Universitas Sam Ratulangi"
+  - family-names: Sengkey
+    given-names: Daniel Febrian
+    orcid: "https://orcid.org/0000-0003-0021-8803"
+    affiliation: "Universitas Sam Ratulangi"
+  - family-names: Tallei
+    given-names: Trina Ekawati
+    orcid: "https://orcid.org/0000-0002-7963-7527"
+    affiliation: "Universitas Sam Ratulangi"
+  - family-names: Masengi
+    given-names: Angelina Stevany Regina
+    orcid: "https://orcid.org/0000-0002-9760-0103"
+    affiliation: "Universitas Sam Ratulangi"
