@@ -33,7 +33,7 @@ Cells marked `# EXPECTED:` print the value reported in the article so each part 
 ## Reproducibility notes
 - Generation uses one global seed (42); resuming an interrupted run changes the random stream.
 - Docking seeds are 0, 1, 2. MD velocities are generated randomly (`gen_seed = -1`).
-- GROMACS versions differ by stage (2021.4 preparation/equilibration, 2026.1 and 2025.4 production, 2026.1 analysis); record `gmx --version` for your runs.
+- GROMACS versions 2026.1 ; record `gmx --version` for your runs.
 
 ## Citation
 See `CITATION.cff`. License: MIT.
